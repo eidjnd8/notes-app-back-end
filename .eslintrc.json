@@ -11,6 +11,14 @@
         "ecmaVersion": "latest"
     },
     "rules": {
-        "no-console": "off"
+        "no-console": "off",
+        "linebreak-style": "off",
+        "implicit-arrow-linebreak": "off",
+        "comma-dangle": "off",
+        "function-paren-newline": "off",
+        "no-else-return": "off",
+        "no-unused-vars": "warn",
+        "object-curly-newline": "off",
+        "import/newline-after-import": "off",
     }
 }
